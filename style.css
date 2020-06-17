@@ -7,7 +7,7 @@
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
   --theme-name: ".Zizou";
-  --theme-version: "1.5";
+  --theme-version: "1.2";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
@@ -140,7 +140,7 @@
 }
 
 .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
-  content: "𐌁𐌋𐌀𐌂𐌊 𐋏𐍈𐌋𐌄";
+  content: "Z I Z O U";
   position: absolute;
   top: 5px;
   left: 10px;
