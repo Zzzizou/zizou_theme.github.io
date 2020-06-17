@@ -7,13 +7,13 @@
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
   --theme-name: ".Zizou Theme";
-  --theme-version: "1.6";
+  --theme-version: "1.69";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
   --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
-  --stars: url(https://media.discordapp.net/attachments/593823234831417365/722725587013206027/6hYGMy0qHbw.jpg?width=899&height=658);
+  --stars: url(https://zzzizou.github.io/zizou_theme.github.io/2.jpg);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
