@@ -6,14 +6,14 @@
 
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-  --theme-name: ".Zizou";
+  --theme-name: ".Zizou Theme";
   --theme-version: "1.4";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --sideground: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
-  --mainground: url(https://zzzizou.github.io/zizou_theme.github.io/background.jpg);
+  --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+  --stars: url(https://zzzizou.github.io/zizou_theme.github.io/background.jpg);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
@@ -140,7 +140,7 @@
 }
 
 .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
-  content: "乙 Ï 乙 Õ ᙀ";
+  content: "ℤ𝕀ℤ𝕆𝕌";
   position: absolute;
   top: 5px;
   left: 10px;
